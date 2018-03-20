@@ -1,3 +1,8 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import glob
+
 def clean_Group_data(filename):
     x = pd.read_csv(filename)
     mask = x['Tweet Date'].apply(lambda x: len(x) == 30)
