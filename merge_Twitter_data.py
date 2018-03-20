@@ -45,7 +45,7 @@ df_sentiment= pd.DataFrame(cleanedDataDict[file_list[0]]["Compound"]).merge(pd.D
 
 
 #*********************************************************************************************************
-# alculate means for each row of compound value withtout na value into a new columns
+# calculate means for each row of compound value withtout na value into a new columns
 tweet_sentiment= []
 for Index in list(df_sentiment.index):
     tweet_sentiment.append(df_sentiment.ix[Index].mean(skipna = True))
