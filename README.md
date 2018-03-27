@@ -15,3 +15,8 @@ Rolling correlation analysis method applied to tweets count and sentiment analys
 Correlation betweetn sentiment analysis results and bitcoin price are amboguous but the heatmap displayed a stronger correlations each year.
 
 ![alt text](https://github.com/Mikelaifu/SocialMediaSentiments_Bitcoin_Analysis_Project_codes/blob/master/2016_Correlation.png)
+![alt text](https://github.com/Mikelaifu/SocialMediaSentiments_Bitcoin_Analysis_Project_codes/blob/master/2017_correlation.png)
+![alt text](https://github.com/Mikelaifu/SocialMediaSentiments_Bitcoin_Analysis_Project_codes/blob/master/2018_corrolation.png)
+
+
+
